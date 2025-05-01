@@ -1,5 +1,6 @@
 This project analyzes chocolate sales performance using Power BI. The goal is to provide key insights into product performance, regional trends, customer segmentation, and time-based sales behavior to support business decisions.
 Dataset description: Contains transactional sales data for a chocolate company from January to August 2022.
+
 Key Insights
 
 •	Sales regions: top region is Australia, but other regions are not far with sales amount.
