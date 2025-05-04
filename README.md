@@ -20,4 +20,10 @@ Recommendations
 
 •	Encourage best sales managers with additional salary bonuses, encourage them to mentor for less successful managers or new employees.
 
-![Sales Chart](Sales person and date.jpg)
+## 📊 Dashboard Overview
+
+### Chart Set 1
+![Chart 1](Charts1.jpg)
+
+### Chart Set 2
+![Chart 2](Charts2.jpg)
