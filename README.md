@@ -20,4 +20,4 @@ Recommendations
 
 •	Encourage best sales managers with additional salary bonuses, encourage them to mentor for less successful managers or new employees.
 
-![chocolate-sales](Sales person and date.jpg)
+![Sales Chart](Sales person and date.jpg)
