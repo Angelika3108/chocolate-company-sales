@@ -19,3 +19,5 @@ Recommendations
 •	Focus marketing efforts on the products that are more popular for customers, and putting out of sale less popular products or giving customers a discount on these products.
 
 •	Encourage best sales managers with additional salary bonuses, encourage them to mentor for less successful managers or new employees.
+
+![chocolate-sales](Sales person and date.jpg)
