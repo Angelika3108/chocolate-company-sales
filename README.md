@@ -1,4 +1,6 @@
-This project analyzes chocolate sales performance using Power BI. The goal is to provide key insights into product performance, regional trends, customer segmentation, and time-based sales behavior to support business decisions.
+## Analysis of Chocolate company sales performance, Power BI. 
+
+The goal is to provide key insights into product performance, regional trends, customer segmentation, and time-based sales behavior to support business decisions.
 
 Dataset description: Contains transactional sales data for a chocolate company from January to August 2022.
 
@@ -13,12 +15,12 @@ Key Insights
 
 •	Sales lows: February and April showed less sales, and there are lower sales amount on Friday due to the end of the work week.
 
-Recommendations
+### Recommendations
 
 
-•	Focus marketing efforts on the products that are more popular for customers, and putting out of sale less popular products or giving customers a discount on these products.
+#### •	Focus marketing efforts on the products that are more popular for customers, and putting out of sale less popular products or giving customers a discount on these products.
 
-•	Encourage best sales managers with additional salary bonuses, encourage them to mentor for less successful managers or new employees.
+#### •	Encourage best sales managers with additional salary bonuses, encourage them to mentor for less successful managers or new employees.
 
 ## 📊 Dashboard Overview
 
