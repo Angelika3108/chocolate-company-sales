@@ -24,8 +24,6 @@ Key Insights
 
 ## 📊 Dashboard Overview
 
-### Chart Set 1
-![Chart 1](Charts1.jpg)
+![Chart 1](Chocolate Sales.pdf)
 
-### Chart Set 2
-![Chart 2](Charts2.jpg)
+
