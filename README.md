@@ -24,6 +24,10 @@ Key Insights
 
 ## 📊 Dashboard Overview
 
-![Chart 1](Chocolate Sales.pdf)
+### Sales person and date
+![Chart1](Charts1.jpg)
+
+### Country and product
+![Chart2](Charts2.jpg)
 
 
