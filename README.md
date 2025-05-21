@@ -15,6 +15,8 @@ Key Insights
 
 •	Sales lows: February and April showed less sales, and there are lower sales amount on Friday due to the end of the work week.
 
+•	Forecast for September-December 2022 shows no significant increase in sales amount, but possible raise increase in quantity shipped.
+
 ### Recommendations
 
 
@@ -25,9 +27,12 @@ Key Insights
 ## 📊 Dashboard Overview
 
 ### Sales person and date
-![Chart1](Charts1.jpg)
+![Chart1](/dashboards/Charts1.jpg)
 
 ### Country and product
-![Chart2](Charts2.jpg)
+![Chart2](/dashboards/Charts2.jpg)
+
+### Forecast
+![Chart3](/dashboards/Charts3.jpg)
 
 
